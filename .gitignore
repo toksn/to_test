@@ -77,3 +77,6 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+to_test/Debug/
+Debug/
+ipch/
